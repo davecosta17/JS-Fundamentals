@@ -1,1 +1,1 @@
-# JS-Fundamentals
+This repository is a collection of various asignments I complete as I take the ALX SE Front End Development course
